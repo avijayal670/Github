@@ -1,6 +1,10 @@
 ![Profile Banner](./banner.png)
 
 # Hi, I'm A Vijaya Lakshmi 👋
+Programmer at TCS, transitioning into technical development
+- 🎓 MCA student at Jain University
+- 🚀 Skilled in Java, Spring Boot, microservices, and C data structures
+- 🌱 Currently mastering algorithms and 
 
 ### Java Full Stack Developer
 
