@@ -1,4 +1,4 @@
-![Profile Banner](./banner)
+![Profile Banner](./banner.png)
 
 # Hi, I'm A Vijaya Lakshmi 👋
 
