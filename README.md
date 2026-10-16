@@ -1,30 +1,22 @@
 ![Profile Banner](./banner.png)
+Name: A VIJAYA LAKSHMI
+Role: Full Stack Developer
+Experience: 1.8+ Years
+Company: Tata Consultancy Services
+Location: Bangalore, India
 
-# Hi, I'm A Vijaya Lakshmi 👋
-Programmer at TCS, transitioning into technical development
-- 🎓 MCA student at Jain University
-- 🚀 Skilled in Java, Spring Boot, microservices, and C data structures
-- 🌱 Currently mastering algorithms and 
+Currently Working With:
+  - Java
+  - Spring Boot
+  - React.js
+  - Microservices
+  - MySQL
+  - MongoDB
+  - Azure
+  - Docker
 
-### Java Full Stack Developer
-
-💻 Passionate about building web applications and backend systems.
-
-- 🌱 Learning Java, Spring Boot, React and Microservices
-- ☕ Core Java | Spring Boot | Hibernate | SQL
-- 🌐 HTML | CSS | JavaScript | React
-- 🛠️ Tools: Git, GitHub, Postman, MySQL Workbench
-- 🚀 Interested in developing real-world projects
-
-### 🧰 Technical Skills
-
-Java • Spring Boot • Hibernate • SQL • HTML • CSS • JavaScript • React • Git
-
-### 📌 My Projects
-
-- **Weather Report Application** — Spring Boot, REST API and MySQL
-- **Employee Management System** — Spring MVC and MySQL
-
-### 🤝 Connect with Me
-
+Learning:
+  - System Design
+  - Cloud Architecture
+  - AI Integrations
 [GitHub](https://github.com/avijayal670)
